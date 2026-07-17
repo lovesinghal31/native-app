@@ -44,3 +44,7 @@ app-example
 
 # native wind
 nativewind-env.d.ts
+
+# environment files
+.env
+.env.local
